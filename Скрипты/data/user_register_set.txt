@@ -1,0 +1,50 @@
+email1@mail.ru,Pa55word,Cheburashka,Gena,+7(900)000-01-01,Russia,ru,Moscow,ul. Mayakovskaya 1,Central,101000
+email2@mail.ru,qwerW1,Kot_Matroskin,Sharik,+7(900)000-01-02,Ukraine,ua,Kyiv,ul. Lenina 2,Central,010000
+email3@mail.ru,Pa44word,Snezhn_Chelovek,Oreho,+7(900)000-01-03,Belarus,by,Minsk,ul. Kultury 3,Minsk,220000
+email4@mail.ru,1VinniP,Vinni-Pukh,Pyatachok,+7(900)000-01-04,Kazakhstan,kz,Almaty,ul. Tsvetochnaya 4,Almaty,050000
+email5@mail.ru,Karl5son,Malysh,Karlson,+7(900)000-01-05,Azerbaijan,az,Baku,ul. Pushkina 5,Baku,AZ1000
+email6@mail.ru,Grib2W,Letuchiy_Korabl,Grib,+7(900)000-01-06,Armenia,am,Yerevan,ul. Morskaya 6,Yerevan,0010
+email7@mail.ru,Burat1n,Buratino,Piero,+7(900)000-01-07,Georgia,ge,Tbilisi,ul. Sibirskaya 7,Tbilisi,0100
+email8@mail.ru,Kro$h8,Krosh,Yozhik,+7(900)000-01-08,Uzbekistan,uz,Tashkent,ul. Rechnaya 8,Tashkent,100000
+email9@mail.ru,1Funtik,Funtik,Boltun,+7(900)000-01-09,Tajikistan,tj,Dushanbe,ul. Donskaya 9,Dushanbe,734000
+email10@mail.ru,Lyo.tik2,Lyolik,Bobrik,+7(900)000-01-10,Kyrgyzstan,kg,Bishkek,ul. Azatlyk 10,Bishkek,720000
+email11@mail.ru,Vet4K,KotyonokGav,Vet4K,+7(900)000-01-11,Moldova,md,Chisinau,ul. Vetrenaya 11,Chisinau,MD2000
+email12@mail.ru,Dedu4ka,Yojik_v_Tumane,Dedushka,+7(900)000-01-12,Latvia,lv,Riga,ul. Tumannaya 12,Riga,LV-1000
+email13@mail.ru,Tyapa12,Suslik,Tyapa,+7(900)000-01-13,Lithuania,lt,Vilnius,ul. Zimnyaya 13,Vilnius,LT-01100
+email14@mail.ru,Piaf34,Piaf,Oliver,+7(900)000-01-14,Estonia,ee,Tallinn,ul. Letnyaya 14,Tallinn,EE-10100
+email15@mail.ru,BoBry12,Bobry,Lev,+7(900)000-01-15,Poland,pl,Warsaw,ul. Promyshlennaya 15,Masovian,00-001
+email16@mail.ru,K.0t16,Kroshka_Yenot,Mister,+7(900)000-01-16,Czech Republic,cz,Prague,ul. Solnechnaya 16,Prague,110 00
+email17@mail.ru,PandA7,Panda,Lyala,+7(900)000-01-17,Hungary,hu,Budapest,ul. Tsvetnaya 17,Budapest,1011
+email18@mail.ru,Vodyan0y,Vodyanoy,Lyagushka,+7(900)000-01-18,Slovakia,sk,Bratislava,ul. Rechnaya 18,Bratislava,811 01
+email19@mail.ru,3Medved,Tri_Medvedya,Mishka,+7(900)000-01-19,Croatia,hr,Zagreb,ul. Okeanskaya 19,Zagreb,10000
+email20@mail.ru,RusaLka9,Ozyornyy_Korol,Rusalka,+7(900)000-01-20,Slovenia,si,Ljubljana,ul. Morskaya 20,Ljubljana,1000
+email21@mail.ru,RusaLka10,Ozyornyy_Korol2,Rusalka2,+7(900)000-01-21,Slovenia,si,Ljubljana,ul. Morskaya 21,Ljubljana,1010
+email22@mail.ru,Tit12Tat,Tit,Wolf,+7(900)000-01-22,Romania,ro,Bucharest,ul. Forestier 22,Bucharest,010111
+email23@mail.ru,Gus1ar,Gusar_Pognali,Gusar,+7(900)000-01-23,Bulgaria,bg,Sofia,ul. Pirate 23,Sofia,1000
+email24@mail.ru,Z7enka,Neznaika7,Znayka,+7(900)000-01-24,Macedonia,mk,Skopje,ul. Adventure 24,Skopje,1000
+email25@mail.ru,Bre876mdun,BremenskieMuz,Donkey,+7(900)000-01-25,Albania,al,Tirana,ul. Melody 25,Tirana,1001
+email26@mail.ru,Petush0k,Repka,Repka,+7(900)000-01-26,Serbia,rs,Belgrade,ul. Vegetable 26,Belgrade,11000
+email27@mail.ru,PyS5yk,Puppy,Pups,+7(900)000-01-27,Montenegro,me,Podgorica,ul. Sweet 27,Podgorica,81000
+email28@mail.ru,KaRli3K,KarlMarks,Kapital,+7(900)000-01-28,Bosnia and Herzegovina,ba,Sarajevo,ul. Philosophy 28,Sarajevo,71000
+email29@mail.ru,Fi0na,Shrek,Fiona,+7(900)000-01-29,Cyprus,cy,Nicosia,ul. Swamp 29,Nicosia,1010
+email30@mail.ru,Gr1mTales,Death,Pantomime,+7(900)000-01-30,Greece,gr,Athens,ul. Nightmare 30,Athens,1010
+email31@mail.ru,Fiole765nt,Gun,M.60,+7(900)000-01-31,Italy,it,Rome,ul. Weapon 31,Rome,00100
+email32@mail.ru,Ol1vka,Olive,Olive_oil,+7(900)000-01-32,Spain,es,Madrid,ul. Garden 32,Madrid,28001
+email33@mail.ru,SaJ689a,Ragnar_Lothbrok,Shield,+7(900)000-01-33,Portugal,pt,Lisbon,ul. Warrior 33,Lisbon,1000
+email34@mail.ru,Birb5687aG,Berber,Beard,+7(900)000-01-34,France,fr,Paris,ul. Shave 34,Paris,75001
+email35@mail.ru,Lampochk4a,Lantern,Galadriel,+7(900)000-01-35,Germany,de,Berlin,ul. Light 35,Berlin,10115
+email36@mail.ru,Kakadu5,Kakadu,Parrot,+7(900)000-01-36,England,gb,London,ul. Jungle 36,London,W10
+email37@mail.ru,Loni5K,Lion,King,+7(900)000-01-37,Scotland,gb,Edinburgh,ul. Savanna 37,Edinburgh,E1
+email38@mail.ru,Zoro1,Zorro,Mask,+7(900)000-01-38,Wales,gb,Cardiff,ul. Hero 38,Cardiff,CF10
+email39@mail.ru,Morsvin4,Morskoy_Volk,Dolphin,+7(900)000-01-39,Ireland,ie,Dublin,ul. Ocean 39,Dublin,D01
+email40@mail.ru,KoraLL2,Korall,Coral,+7(900)000-01-40,Norway,no,Oslo,ul. Sea 40,Oslo,0010
+email41@mail.ru,DioNys98us,Dionysus,Wine,+7(900)000-01-41,Denmark,dk,Copenhagen,ul. Dionysian 41,Copenhagen,1010
+email42@mail.ru,HaRMy0S,Harmony,Music,+7(900)000-01-42,Sweden,se,Stockholm,ul. Melodic 42,Stockholm,1010
+email43@mail.ru,ThorJo8r,Thor,Thunder,+7(900)000-01-43,Finland,fi,Helsinki,ul. Lightning 43,Helsinki,00100
+email44@mail.ru,Secure123,Karlson2,Malysh2,+7(900)000-01-04,Sweden,se,Stockholm,Drottninggatan 4,Central,11180
+email45@mail.ru,Pass1234,Mashka,Vanyusha,+7(900)000-01-05,France,fr,Paris,Rue de Rivoli 5,Central,75001
+email46@mail.ru,Qwerty12,Prostokvashino3,Sharikov,+7(900)000-01-06,Japan,jp,Tokyo,Ginza 6,Central,100-0001
+email47@mail.ru,P@ssw0rd,Masha2,Medved,+7(900)000-01-04,Russia,ru,St. Petersburg,ul. Nevsky 4,Central,190000
+email48@mail.ru,secu7reP@ss,Prostokvashino2,Barash,+7(900)000-01-05,Russia,ru,Leningrad Oblast,derevnya Prostokvashino,Central,195112
+email49@mail.ru,12345Qwerty,Karlson3,Kotomka,+7(900)000-01-06,Sweden,se,Stockholm,Langholmsgatan 6,Central,12345
+email50@mail.ru,Passw0rd123,Tri_koty,Matroska,+7(900)000-01-06,Russia,ru,Volgograd,ul. Pobedy 6,South,400000
